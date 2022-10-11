@@ -2,5 +2,5 @@
 **********
 *Let me introduce myself first* 
 -----------------------------
-I'm Vikiaa, a college student from Beijing.
+I'm Vikiaa, a college student from Beijing.  
 Nice to meet you~
